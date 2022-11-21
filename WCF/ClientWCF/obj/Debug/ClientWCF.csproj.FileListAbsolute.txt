@@ -1,0 +1,8 @@
+C:\Users\irrae\source\repos\WCF\ClientWCF\bin\Debug\ClientWCF.exe.config
+C:\Users\irrae\source\repos\WCF\ClientWCF\bin\Debug\ClientWCF.exe
+C:\Users\irrae\source\repos\WCF\ClientWCF\bin\Debug\ClientWCF.pdb
+C:\Users\irrae\source\repos\WCF\ClientWCF\obj\Debug\ClientWCF.csproj.AssemblyReference.cache
+C:\Users\irrae\source\repos\WCF\ClientWCF\obj\Debug\ClientWCF.csproj.SuggestedBindingRedirects.cache
+C:\Users\irrae\source\repos\WCF\ClientWCF\obj\Debug\ClientWCF.csproj.CoreCompileInputs.cache
+C:\Users\irrae\source\repos\WCF\ClientWCF\obj\Debug\ClientWCF.exe
+C:\Users\irrae\source\repos\WCF\ClientWCF\obj\Debug\ClientWCF.pdb
